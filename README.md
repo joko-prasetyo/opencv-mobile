@@ -1,4 +1,5 @@
 # opencv-mobile
+This is a fork! Some modification is applied, this repo might have an issue, please considering using the original repo (https://github.com/nihui/opencv-mobile)
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)
 ![release](https://img.shields.io/github/workflow/status/nihui/opencv-mobile/release?style=for-the-badge)
