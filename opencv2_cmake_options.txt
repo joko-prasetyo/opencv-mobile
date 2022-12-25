@@ -45,7 +45,7 @@
 -DBUILD_TBB=OFF
 -DENABLE_DYNAMIC_CUDA=OFF
 -DENABLE_PRECOMPILED_HEADERS=OFF
--DBUILD_opencv_java=ON
+-DBUILD_opencv_java=OFF
 -DBUILD_opencv_androidcamera=OFF
 -DBUILD_opencv_ts=OFF
 -DBUILD_opencv_python2=OFF
