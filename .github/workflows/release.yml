@@ -166,7 +166,7 @@ jobs:
         path: ${{ env.PACKAGENAME }}.zip
 
   release:
-    needs: [setup, android-opencv4, android-opencv3, android-opencv2]
+    needs: [setup, android-opencv4, android-opencv3]
     runs-on: ubuntu-latest
     steps:
     - name: download
