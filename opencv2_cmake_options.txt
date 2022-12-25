@@ -53,7 +53,7 @@
 -DBUILD_opencv_gpu=OFF
 -DBUILD_opencv_dynamicuda=OFF
 -DBUILD_opencv_ocl=OFF
--DBUILD_opencv_imgcodecs=ON
+-DBUILD_opencv_imgcodecs=OFF
 -DBUILD_opencv_videoio=OFF
 -DBUILD_opencv_calib3d=OFF
 -DBUILD_opencv_flann=OFF
